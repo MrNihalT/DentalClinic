@@ -1,0 +1,232 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+body{
+    font-family: "DM Sans", sans-serif;
+}
+
+.wrapper{
+    margin: 0 auto;
+    padding: 0 2%;
+    max-width: 1440px;
+}
+#spotlight{
+    height: 100vh;
+}
+#spotlight .wrapper{}
+#spotlight .wrapper header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1% 0;
+    align-items: center;
+    
+}
+#spotlight .wrapper header .left{
+    width: 30%;
+}
+#spotlight .wrapper header .left a{}
+#spotlight .wrapper header .left a h1{}
+#spotlight .wrapper header .left a h1 img{}
+#spotlight .wrapper header .right{
+    
+}
+#spotlight .wrapper header .right nav{
+    display: flex;
+    align-items: center;
+}
+#spotlight .wrapper header .right nav ul{
+    display: flex;
+    align-items: center;
+    
+}
+#spotlight .wrapper header .right nav ul li{
+}
+#spotlight .wrapper header .right nav ul li a{
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+    
+}
+#spotlight .wrapper header .right nav ul li a img{
+    margin-right: 10px;
+}
+#spotlight .wrapper header .right nav ul li a p{
+    font-weight: 300;
+    color: #142349;
+}
+#spotlight .wrapper header .right nav .button{
+    padding:  14px 20px;
+    background-color: #3366FF;
+    gap: 10px;
+    border-radius: 40px;
+    color: #FFFFFF;
+}
+#spotlight hr{
+    border: 1px solid #C2D1FF;
+}
+nav.properties{
+    background-color: #C7F0FD;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: 40px auto;
+    border-radius: 45px;
+    display: flex;
+    justify-content: space-between;
+    height: 67px;
+    align-items: center;
+    padding: 0 50px;
+
+}
+nav.properties .left{}
+nav.properties .left ul{
+    display: flex;
+    justify-content: space-between;
+}
+nav.properties .left ul li{
+    margin-right: 40px;
+}
+nav.properties .left ul li a{
+    font-size: 15px;
+    font-weight: 700;
+}
+nav.properties .left ul li a.blue{
+    color: #3366FF;
+}
+nav.properties .left ul li a img{
+    transform: rotate(90deg);
+    width: 10px;
+    height: 14px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+nav.properties .right{}
+nav.properties .right form {
+    display: flex;
+    position: relative; /* Make the form the relative container for positioning */
+}
+
+nav.properties .right form input {
+    max-width: 304px;
+    width: 304px;
+    height: 43px;
+    border-radius: 45px;
+    border: none;
+    padding: 0 50px 0 15px;
+    
+}
+nav.properties .right form input::placeholder{
+    color:#ADC2FF ;
+}
+
+nav.properties .right form a {
+    background-color: #3366FF;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 10px; /* Position the button inside the input field on the right */
+    top: 50%;
+    transform: translateY(-50%);
+    
+}
+
+nav.properties .right form a img {
+    width: 16px; /* Adjust image size if needed */
+    height: 16px;
+}
+#spotlight .main{
+    height: 775px;
+    margin-top: 120px;
+    display: flex;
+}
+#spotlight .main .left{
+    width: 60%;
+    
+}
+#spotlight .main .left .top{}
+#spotlight .main .left .top h2{
+    color:#FF9140;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 23.94px;
+    letter-spacing: 0.15em;
+    text-align: left;
+    margin-bottom: 10px;
+}
+#spotlight .main .left .top h1{
+    font-family: Source Serif Pro;
+    font-size: 76px;
+    font-weight: 600;
+    line-height: 83.6px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    max-width: 600px;
+
+}
+#spotlight .main .left .top h1 b{
+    color: #3366FF;
+
+}
+#spotlight .main .left .top p{
+    color: #142349;
+    font-family: DM Sans;
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: left;
+    max-width: 520px;
+    margin-top: 30px;
+
+}
+#spotlight .main .left .bottom{
+    display: flex;
+    margin-top: 40px;
+    align-items: center;
+}
+#spotlight .main .left .bottom a.button{
+    background-color: #3366FF;
+    padding: 10px 20px;
+    border-radius: 24px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18.9px;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+    margin-right: 50px;
+
+}
+#spotlight .main .left .bottom a.video{
+    align-items: center;
+    align-self: center;
+    display: flex;
+}
+#spotlight .main .left .bottom a.video img{
+    align-items: center;
+    height: 30px;
+    margin-right: 10px;
+}
+#spotlight .main .left .bottom a.video p{
+    color: #142349;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 19.53px;
+    letter-spacing: 0.06em;
+    text-align: left;
+
+}
+#spotlight .main .right{
+    width: 40%;
+}
+#spotlight .main .right img{
+    width: 600px;
+}
