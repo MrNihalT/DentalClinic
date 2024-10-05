@@ -779,7 +779,7 @@ color:#142349;
     margin: auto 0;
 }
 #appoiment .right {
-    background-image: url('assets/images/OVAL.png');
+    background-image: url("assets/images/OVAL.png");
     background-repeat: no-repeat;
     background-size: 700px; /* Ensures the image fits within the div */
     background-position: calc(50% - 50px) center; /* Shifts the image 100px to the left */
