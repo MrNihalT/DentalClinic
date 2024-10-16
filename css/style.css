@@ -779,7 +779,7 @@ color:#142349;
     margin: auto 0;
 }
 #appoiment .right {
-    background-image: url("assets/images/OVAL.png");
+    background-image: url("../assets/images/OVAL.png");
     background-repeat: no-repeat;
     background-size: 700px; /* Ensures the image fits within the div */
     background-position: calc(50% - 50px) center; /* Shifts the image 100px to the left */
@@ -857,16 +857,14 @@ text-align: left;
     flex-wrap: wrap;
     justify-content: space-between;
 }
-#testimonial .right .feedbacks ul li{
+#testimonial .right .feedbacks ul li {
     background-color: #FFFFFF;
     margin-right: 20px;
     margin-bottom: 50px;
-    width: 42%;
+    width: 40%;
     padding: 10px 15px;
     border-radius: 16px;
     height: 220px;
-    
-
 }
 #testimonial .right .feedbacks ul li:nth-child(even){
     margin-top: -30px;
