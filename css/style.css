@@ -102,10 +102,12 @@ nav.properties .left ul li:last-child{
 }
 nav.properties .left ul li a{
     font-size: 15px;
+    font-family: 'Plus Jakarta Sans';
     font-weight: 700;
 }
 nav.properties .left ul li a.blue{
     color: #3366FF;
+    font-family: 'Plus Jakarta Sans';
 }
 nav.properties .left ul li a img{
     transform: rotate(90deg);
@@ -138,6 +140,7 @@ nav.properties .right form a {
     background-color: #3366FF;
     border-radius: 50%;
     width: 35px;
+    font-family: 'Plus Jakarta Sans';
     height: 35px;
     display: flex;
     align-items: center;
@@ -173,9 +176,8 @@ nav.properties .right form a img {
     margin-bottom: 10px;
 }
 #spotlight .main .left .top h1{
-    font-family: Source Serif Pro;
+    font-family: "Source Serif Pro";
     font-size: 76px;
-    font-weight: 600;
     line-height: 83.6px;
     letter-spacing: -0.04em;
     text-align: left;
@@ -188,9 +190,9 @@ nav.properties .right form a img {
 }
 #spotlight .main .left .top p{
     color: #142349;
-    font-family: DM Sans;
+    font-family: "DM Sans";
     font-size: 19px;
-    font-weight: 300;
+    
     line-height: 30px;
     text-align: left;
     max-width: 520px;
@@ -205,6 +207,7 @@ nav.properties .right form a img {
 #spotlight .main .left .bottom a.button{
     background-color: #3366FF;
     padding: 10px 20px;
+    font-family: "Plus Jakarta Sans";
     border-radius: 24px;
     font-size: 15px;
     font-weight: 600;
@@ -228,9 +231,9 @@ nav.properties .right form a img {
 #spotlight .main .left .bottom a.video p{
     color: #142349;
     font-size: 15px;
-    font-weight: 500;
     line-height: 19.53px;
     letter-spacing: 0.06em;
+    font-family: "Source Sans 3";
     text-align: left;
 
 }
@@ -252,6 +255,7 @@ nav.properties .right form a img {
     line-height: 23.94px;
     letter-spacing: 0.15em;
     text-align: center;
+    font-family: 'Plus Jakarta Sans';
 
 }
 #partners .top .companys{
@@ -288,6 +292,7 @@ nav.properties .right form a img {
 #partners .bottom .right h2{
     color: #FF9140;
     font-size: 19px;
+    font-family: 'Plus Jakarta Sans';
     font-weight: 700;
     line-height: 23.94px;
     letter-spacing: 0.15em;
@@ -299,6 +304,7 @@ nav.properties .right form a img {
     margin-bottom: 20px;
     font-size: 46px;
     font-weight: 600;
+    font-family: 'Source Serif Pro';
     line-height: 57.64px;
     letter-spacing: 0.02em;
     text-align: left;
@@ -307,6 +313,7 @@ nav.properties .right form a img {
 #partners .bottom .right h1 .blue{
     color: #3366FF;
     display: inline;
+    font-family: 'Source Serif Pro';
     font-size: 46px;
     font-size: 46px;
     font-weight: 600;
@@ -318,6 +325,7 @@ nav.properties .right form a img {
     color: #142349;
     font-size: 19px;
     font-weight: 300;
+    font-family: 'DM Sans';
     line-height: 30px;
     max-width: 640px;
     margin-bottom: 25px;
@@ -344,6 +352,7 @@ nav.properties .right form a img {
 #partners .bottom .right .features ul li p{
     align-self: center;
     margin: auto 0;
+    font-family: 'DM Sans';
     color: #142349;
     font-size: 15px;
     font-weight: 500;
@@ -357,6 +366,7 @@ nav.properties .right form a img {
     font-weight: 600;
     line-height: 26.6px;
     letter-spacing: 0.03em;
+    font-family: 'Plus Jakarta Sans';
     text-align: left;
     align-items: center;
     margin: auto 0;
@@ -388,11 +398,13 @@ nav.properties .right form a img {
     line-height: 23.94px;
     letter-spacing: 0.15em;
     text-align: center;
+    font-family: 'Plus Jakarta Sans';
     
 }
 #facilities .top h1{
     color: #142349;
     font-size: 46px;
+    font-family: 'Source Serif Pro';
     font-weight: 600;
     line-height: 57.64px;
     letter-spacing: 0.02em;
@@ -404,6 +416,7 @@ nav.properties .right form a img {
 }
 #facilities .top h1 b{
     color: #3366FF;
+    font-family: 'Source Serif Pro';
     font-size: 46px;
     font-weight: 600;
     line-height: 57.64px;
@@ -445,6 +458,7 @@ nav.properties .right form a img {
     font-size: 19px;
     font-weight: 700;
     line-height: 23.94px;
+    font-family: 'Plus Jakarta Sans',sans-serif;
     letter-spacing: 0.15em;
     text-align: left;
     margin-top: 10px;
@@ -455,6 +469,7 @@ nav.properties .right form a img {
     color: #142349;
     font-size: 19px;
     font-weight: 300;
+    font-family: ' font-family: "Source Sans 3", serif;';
     line-height: 30px;
     text-align: left;
     max-width: 510px;
@@ -465,7 +480,7 @@ nav.properties .right form a img {
     font-weight: 600;
     line-height: 18.9px;
     letter-spacing: 0.15em;
-    
+    font-family: "Plus Jakarta Sans", sans-serif;
     color: #3366FF;
     
 }
@@ -508,6 +523,7 @@ nav.properties .right form a img {
 #doctors .clinic-details ul li h1 {
     font-size: 110px;
     font-weight: 600;
+     font-family: "Source Sans 3", serif;
     line-height: 92px;
     letter-spacing: 0.02em;
     text-align: center;
@@ -521,6 +537,7 @@ nav.properties .right form a img {
     font-size: 19px;
     font-weight: 600;
     line-height: 26.6px;
+    font-family: "Plus Jakarta Sans", sans-serif;
     letter-spacing: 0.03em;
     text-align: center;
     position: absolute;
@@ -539,6 +556,7 @@ nav.properties .right form a img {
     font-weight: 700;
     line-height: 23.94px;
     letter-spacing: 0.15em;
+    font-family: "Plus Jakarta Sans", sans-serif;
     text-align: center;
     color: #FF9140;
 
@@ -547,6 +565,7 @@ nav.properties .right form a img {
     font-size: 46px;
     font-weight: 600;
     line-height: 57.64px;
+     font-family: "Source Sans 3", serif;
     letter-spacing: 0.02em;
     text-align: center;
     color: #142349;
@@ -561,6 +580,7 @@ nav.properties .right form a img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #3366FF;
+    font-family: "Source Sans 3", serif;
 
 }
 #doctors .doctors-profile .bottom{
@@ -634,6 +654,7 @@ nav.properties .right form a img {
 font-size: 19px;
 font-weight: 600;
 line-height: 23.94px;
+font-family: "Plus Jakarta Sans", sans-serif;
 letter-spacing: 0.15em;
 text-align: center;
 color: #3366FF;
@@ -643,6 +664,7 @@ color: #3366FF;
 
 font-size: 15px;
 font-weight: 300;
+ font-family: "Source Sans 3", serif;
 line-height: 19.53px;
 letter-spacing: 0.02em;
 text-align: center;
@@ -713,6 +735,7 @@ color:#142349;
 #appoiment .left .booking .top h2{
 
     color: #FF9140;
+    font-family: "Plus Jakarta Sans";
     font-size: 19px;
     font-weight: 700;
     line-height: 23.94px;
@@ -732,6 +755,7 @@ color:#142349;
     letter-spacing: -0.04em;
     text-align: left;
     color: #142349;
+     font-family: "Source Serif Pro" ;
     margin-bottom: 20px;
     max-width: 600px;
 
@@ -741,6 +765,7 @@ color:#142349;
     font-weight: 500;
     line-height: 90.22px;
     letter-spacing: 0.02em;
+    font-family: "Source Serif Pro";
     text-align: left;
     color: #3366FF;
 
@@ -750,6 +775,7 @@ color:#142349;
     font-size: 19px;
     font-weight: 300;
     line-height: 30px;
+     font-family: "Dm Sans" ;
     text-align: left;
     margin-bottom: 20px;
     max-width: 600px;
@@ -765,6 +791,7 @@ color:#142349;
     background-color: #3366FF;
     color:#FFFFFF ;
     font-size: 15px;
+    font-family: 'Plus Jakarta Sans';
     font-weight: 600;
     line-height: 18.9px;
     letter-spacing: 0.15em;
@@ -814,6 +841,7 @@ color:#142349;
 #testimonial .left .t-top h2{
 color: #FF9140;
 font-size: 19px;
+font-family: 'Plus Jakarta Sans',sans-serif;
 font-weight: 700;
 line-height: 23.94px;
 letter-spacing: 0.15em;
@@ -823,6 +851,7 @@ letter-spacing: 0.15em;
 font-size: 46px;
 font-weight: 600;
 line-height: 57.64px;
+font-family: 'Source Serif 3';
 letter-spacing: 0.02em;
 text-align: left;
 color: #142349;
@@ -835,6 +864,7 @@ font-size: 46px;
 font-weight: 600;
 line-height: 57.64px;
 letter-spacing: 0.02em;
+font-family: 'Source Serif 3';
 text-align: left;
 
 }
@@ -886,6 +916,7 @@ text-align: left;
     font-size: 15px;
     font-weight: 300;
     line-height: 19.53px;
+    font-family: 'DM Sans';
     letter-spacing: 0.02em;
     text-align: left;
     color: #142349;
@@ -897,6 +928,7 @@ text-align: left;
 color: #3366FF;
 font-size: 20px;
 font-weight: 500;
+font-family: 'DM Sans';
 line-height: 19.53px;
 text-align: left;
 
@@ -906,6 +938,7 @@ text-align: left;
     font-size: 12px;
     font-weight: 300;
     line-height: 20px;
+    font-family: 'DM Sans';
     text-align: left;
 }
 
@@ -915,6 +948,7 @@ text-align: left;
 #blog-news .sub-heading{
     font-size: 19px;
     font-weight: 700;
+    font-family: 'Plus Jakarta Sans';
     line-height: 23.94px;
     letter-spacing: 0.15em;
     text-align: left;
@@ -928,6 +962,7 @@ text-align: left;
 #blog-news .top h1{
     font-size: 42px;
     font-weight: 600;
+    font-family: 'Source Serif Pro';
     line-height: 57.64px;
     letter-spacing: 0.02em;
     text-align: left;
@@ -939,6 +974,7 @@ text-align: left;
     align-items: center;
     justify-content: center;
     padding: 4px 28px;
+    font-family: 'Plus Jakarta Sans';
     gap: 10px;
     border-radius: 40px;
     background: #3366FF;
@@ -1004,6 +1040,7 @@ color: #ADC2FF;
 font-size: 15px;
 font-weight: 500;
 line-height: 19.53px;
+font-family: 'DM Sans';
 text-align: center;
 
 }
@@ -1015,6 +1052,7 @@ text-align: center;
     line-height: 28px;
     text-align: left;
     color: #FFFFFF;
+    font-family: 'DM Sans';
     max-width: 450px;
     margin-bottom: 10px;
 
@@ -1025,6 +1063,7 @@ text-align: center;
     align-items: center;
     color: #3366FF;
     border-radius: 30px;
+    font-family: 'Plus Jakarta Sans';
     padding: 10px 20px;
     font-size: 16px;
     font-weight: 600;
@@ -1142,6 +1181,7 @@ footer .bottom ul li.big{
 footer .bottom ul li.big h3{
 
 font-size: 19px;
+font-family: 'DM Sans';
 font-weight: 500;
 line-height: 28px;
 text-align: left;
@@ -1159,6 +1199,7 @@ footer .bottom ul li.big .hours{
 footer .bottom ul li.big .hours p{
 color: #3366FF;
 font-size: 15px;
+font-family: 'DM Sans';
 font-weight: 300;
 line-height: 19.53px;
 letter-spacing: 0.02em;
@@ -1172,6 +1213,7 @@ font-weight: 300;
 line-height: 19.53px;
 letter-spacing: 0.02em;
 text-align: left;
+font-family: 'DM Sans';
 margin-top: 40px;
 
 }
@@ -1183,6 +1225,7 @@ footer .bottom ul li.small{
 footer .bottom ul li.small h2{
 color: #142349;
 font-size: 15px;
+font-family: 'DM Sans';
 font-weight: 500;
 line-height: 19.53px;
 text-align: left;
@@ -1194,6 +1237,7 @@ color: #142349;
 font-size: 15px;
 font-weight: 300;
 line-height: 19.53px;
+font-family: 'DM Sans';
 letter-spacing: 0.02em;
 text-align: left;
 margin-bottom: 9px;
